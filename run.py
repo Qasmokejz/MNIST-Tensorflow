@@ -38,6 +38,6 @@ def run(filename, test_x=test_x, test_y=test_y):
     print(f'=> {count} out of {len(test_y)}')
     print(f'=> Calculated accuracy: %{count/(len(test_y))*100}')
 
- for i in filenames:
+for i in filenames:
      run(i)
 
