@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from tensorflow.keras.datasets import mnist 
 
-filename = 'mod5'
+filename = 'mod1'
 
 # train_X.shape = (60000, 28, 28)
 # train_y.shape = (60000,)
